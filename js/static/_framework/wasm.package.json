@@ -1,0 +1,244 @@
+{
+  "id": "wasmrunner",
+  "name": "WasmRunner",
+  "assemblies": [
+    {
+      "name": "System.Collections.Concurrent.dll",
+      "size": 76288,
+      "hash": "sha256-UvfYsiqvZmWiefJu7zwLzKkTtciEKAUtcIWL9XO6cd0=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Collections.Concurrent.xml",
+        "size": 139238,
+        "hash": "sha256-jOmuhlkcbR6QuVVdhbKWURQ3TCAnbB\/+lseQVW5VUEE="
+      }
+    },
+    {
+      "name": "System.Collections.dll",
+      "size": 89088,
+      "hash": "sha256-IgKbwCvCf+5FSwdlWa75EXcbFM0YpVquP6WdR7OsK1M=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Collections.xml",
+        "size": 345292,
+        "hash": "sha256-+xPpiZgtoqlrhgTBcvLGsHlWiJikUTDAXkwoQD7kYd0="
+      }
+    },
+    {
+      "name": "System.Console.dll",
+      "size": 41472,
+      "hash": "sha256-vDWz9gEBdvGbUSrcckr+MIu5WTcUpmo4mMJH8JLYgdM=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Console.xml",
+        "size": 78868,
+        "hash": "sha256-3Ty8zdf5JlxMMAFULq2dF0ED2olkVx7BYefOQmPlqy8="
+      }
+    },
+    {
+      "name": "System.Linq.dll",
+      "size": 131072,
+      "hash": "sha256-PBVRUB3J1MWPoG2Cr9jNzCQK\/WZaXac\/W8WNhdpLiuw=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Linq.xml",
+        "size": 181629,
+        "hash": "sha256-tC5jrQ8YmNR+0oqFPbPAxfYoX\/MJQE2pWFnqv7Op8QM="
+      }
+    },
+    {
+      "name": "System.Memory.dll",
+      "size": 54784,
+      "hash": "sha256-19yTs7er2KoDuq6W4ke6P+gjSB\/6T7127b6fwpAb9pM=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Memory.xml",
+        "size": 252597,
+        "hash": "sha256-yJ2ZynDVXsuZHqGxGNsRyIk6YOSXYtp60oiIhkDdlo8="
+      }
+    },
+    {
+      "name": "System.Numerics.Vectors.dll",
+      "size": 5120,
+      "hash": "sha256-pPFVXRmoKUhX6w1YScz4CbKq7d8WeEAEh3oj3xSOWjw=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Numerics.Vectors.xml",
+        "size": 204284,
+        "hash": "sha256-cW52i9HiY+PP37rGGjJcfsSTKffMYGWZU2X0oDPkFqA="
+      }
+    },
+    {
+      "name": "System.Private.CoreLib.dll",
+      "size": 3050496,
+      "hash": "sha256-Ywb0vEnvw2Kd+JiXtQsu3zRTPXqZvBUm5Li+kmeHcE0=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "mscorlib.xml",
+        "size": 3113875,
+        "hash": "sha256-9R7yvv4iG1Ig7x+YMyY2Jco5S3qYFIqoi8JcD6Yb+wI="
+      }
+    },
+    {
+      "name": "System.Private.Runtime.InteropServices.JavaScript.dll",
+      "size": 35840,
+      "hash": "sha256-GyufJRUgi2zAtoknTJ6mxoZBlezNGS1FvZ5+Wi7gkUg=",
+      "version": "6.0.0.0"
+    },
+    {
+      "name": "System.Private.Uri.dll",
+      "size": 90112,
+      "hash": "sha256-vCGX1QWT2XU9rY\/JZWCE2xodrArKNakbHyFwRif+\/o8=",
+      "version": "6.0.0.0"
+    },
+    {
+      "name": "System.Reflection.Emit.ILGeneration.dll",
+      "size": 5120,
+      "hash": "sha256-x61o2+kOf1eJsOVevy06Q+OfxIOUY6rf49J+WKM2OUU=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Reflection.Emit.ILGeneration.xml",
+        "size": 58119,
+        "hash": "sha256-4pIZTzxMFMIxQtAaBrkdjSJEWSGcUalaetC1ehvq0Ys="
+      }
+    },
+    {
+      "name": "System.Reflection.Emit.Lightweight.dll",
+      "size": 5120,
+      "hash": "sha256-uarFgBo0rJmWE4Sk3ds2uI98B\/4ykJDqWKUAaEK9NgE=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Reflection.Emit.Lightweight.xml",
+        "size": 42405,
+        "hash": "sha256-Xvce06bCuuVy3qaL6tqEFX37n9bQTxizbGOHGCthRzk="
+      }
+    },
+    {
+      "name": "System.Reflection.Primitives.dll",
+      "size": 5632,
+      "hash": "sha256-0kQq5AEEEY8nLpR0r2pkKxh8z9teRpdnsEQK9woimPM=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Reflection.Primitives.xml",
+        "size": 68883,
+        "hash": "sha256-\/bpdrq9loTiLJXFGYXz9yX1gzTHlewzCAWYgpWly0N0="
+      }
+    },
+    {
+      "name": "System.Runtime.CompilerServices.Unsafe.dll",
+      "size": 6656,
+      "hash": "sha256-z+pGoe0MtxTcxFd\/wnrk+FHz6Ofgp3kAADc6+4ixg0c=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Runtime.CompilerServices.Unsafe.xml",
+        "size": 17998,
+        "hash": "sha256-oi4JmGoJg53Gl\/E9dqre1gCAAfNjKYasrrwp+O9Im4I="
+      }
+    },
+    {
+      "name": "System.Runtime.dll",
+      "size": 29184,
+      "hash": "sha256-vZJb0F379aeBgTrKx1QPYOOlRGALiBMmypVzIi6L5P0=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Runtime.xml",
+        "size": 5525156,
+        "hash": "sha256-aSh8mVF21+KAssQw5ePGvboU9C6Ip+1nfFddKc03K8Q="
+      }
+    },
+    {
+      "name": "System.Runtime.InteropServices.dll",
+      "size": 26112,
+      "hash": "sha256-u6CeepJ+Vojwp2rgD\/+8uosJLYIBpHIUTydSwQK39jg=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Runtime.InteropServices.xml",
+        "size": 506471,
+        "hash": "sha256-BN\/j7yapZSxMk5WVSfrjanr7dUmR49\/mIgY2Qd3O6vg="
+      }
+    },
+    {
+      "name": "System.Runtime.Intrinsics.dll",
+      "size": 6144,
+      "hash": "sha256-x\/IRtIQ7Aa+Fmb39oqHTlevZ9Mn35DfNeIWP8I0wanw=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Runtime.Intrinsics.xml",
+        "size": 1663130,
+        "hash": "sha256-x6gDgNwRwNtVt0+L9Y\/RVeSkHnBkJZRWnYtV1FiUq8s="
+      }
+    },
+    {
+      "name": "System.Runtime.Loader.dll",
+      "size": 5120,
+      "hash": "sha256-g3HRAIGg52OgkIiDrwcr25i9RY+4wqcWdbVJT\/zUfXw=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Runtime.Loader.xml",
+        "size": 18898,
+        "hash": "sha256-aenXlDBjJgYstlcvE6VEw6x75NjmMdL8sg5Hh1L09d8="
+      }
+    },
+    {
+      "name": "System.Text.Encoding.Extensions.dll",
+      "size": 5120,
+      "hash": "sha256-BuHYT4el6+\/OkFxU3zGHocldOeJcQHKdUL4Yk8AVSVo=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Text.Encoding.Extensions.xml",
+        "size": 118397,
+        "hash": "sha256-A6djZKRCS06AlCK5RUbDj7C8WuWy\/XK1+OHbAPvxWV8="
+      }
+    },
+    {
+      "name": "System.Text.Encodings.Web.dll",
+      "size": 57344,
+      "hash": "sha256-B+VKbzvKlf9HMMeyzWZwGyehBp2uxb1BVg8akT7u8+Q=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Text.Encodings.Web.xml",
+        "size": 62941,
+        "hash": "sha256-B3K3iVof6h07vuLtL1IA70+es4siw9ALVAUyW+nYp80="
+      }
+    },
+    {
+      "name": "System.Text.Json.dll",
+      "size": 326656,
+      "hash": "sha256-Lkz4zB1VycxU7f3c2j89YTm6y4UOXC5FWga1oIYBYPs=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Text.Json.xml",
+        "size": 244053,
+        "hash": "sha256-3aauE6oXNrKayYEJtzNNcAgd2QenrWiQwmWlUtLaA7Y="
+      }
+    },
+    {
+      "name": "System.Threading.dll",
+      "size": 35328,
+      "hash": "sha256-5FFNNhJIkDxRIQz\/aEdul4fTdXA2He4BoEQ2mN2iS+I=",
+      "version": "6.0.0.0",
+      "doc": {
+        "name": "System.Threading.xml",
+        "size": 241707,
+        "hash": "sha256-k\/w1gw9SO5S4j5RVSC7fRGtqkC\/mzOqOGJSb9VwzLG8="
+      }
+    },
+    {
+      "name": "Wasm.Sdk.dll",
+      "size": 7168,
+      "hash": "sha256-IpTKqqAxH7dTs8YF6tsMb4Mo\/b9sB6OGwpdz6utEhyg=",
+      "version": "1.0.0.0"
+    },
+    {
+      "name": "WasmRunner.dll",
+      "size": 6656,
+      "hash": "sha256-JGeM1QGX\/yGaohl\/ImyQ2dR8lNwmqYqq53R4cyZo\/rY=",
+      "version": "0.0.1.0",
+      "pdb": {
+        "name": "WasmRunner.pdb",
+        "size": 11552,
+        "hash": "sha256-lTJG77iJ\/0\/nOryf963PtyX5XpqQ7n9sT0UPFtHTp+M="
+      }
+    }
+  ]
+}

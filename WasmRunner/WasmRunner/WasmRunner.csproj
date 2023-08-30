@@ -1,0 +1,11 @@
+﻿<Project Sdk="Wasm.Sdk/1.0.0">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <SourceGenerator_EnableDebug>false</SourceGenerator_EnableDebug>
+    <ExcludeXmlAssemblyFiles>false</ExcludeXmlAssemblyFiles>
+    <WasmPackageOutputPath>..\..\js</WasmPackageOutputPath>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
