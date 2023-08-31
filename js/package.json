@@ -1,6 +1,6 @@
 {
   "name": "@0x33.io/wasmrunner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ivan Prodanov",
   "description": "Auto-generated .net wasm package that exports ts/js consumables for WasmRunner",
   "license": "MIT",
